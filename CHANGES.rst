@@ -5,6 +5,9 @@ Changelog (Pillow)
 9.5.0 (2023-04-01)
 ------------------
 
+- Updated libwebp to 1.3.2 to address CVE-2023-4863
+  [Seal]
+
 - Added ImageSourceData to TAGS_V2 #7053
   [radarhere]
 
